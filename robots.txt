@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://emeraubi.github.io/Hgj/sitemap_index.txt.gz
+Sitemap: https://emeraubi.github.io/KGq/sitemap_index.txt.gz
+Sitemap: https://emeraubi.github.io/ZVo/sitemap_index.txt.gz
+Sitemap: https://emeraubi.github.io/akr/sitemap_index.txt.gz
+Sitemap: https://emeraubi.github.io/epv/sitemap_index.txt.gz
